@@ -16,7 +16,9 @@
 
 <>
 
-link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:900|Noto+Serif:italic|Mukta+Vaani:regular" rel="stylesheet"
+link rel="preconnect" href="https://fonts.googleapis.com"
+link rel="preconnect" href="https://fonts.gstatic.com" crossorigin
+link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@900&family=Mukta+Vaani:wght@400;800&family=Noto+Serif:ital@1&display=swap" rel="stylesheet"
 
 CSS
 
